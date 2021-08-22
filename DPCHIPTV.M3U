@@ -145,6 +145,37 @@ http://202.169.224.76:1935/live/tve.stream/playlist.m3u8
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
 
+########################################## Knowledge ####################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KHKIztL.png?v=4.2.2.2" group-title="Knowledge", Animal Planet
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P9yiTz6.png?v=4.2.2.2" group-title="Knowledge" tvg-id="Nat Geo Wild", Nat Geo Wild HD
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x0XijCu.png?v=4.2.2.2" group-title="Knowledge" tvg-id="Nat Geo", National Geographic HD
+#https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
+#http://iptv.tvmalaysia.cc:80/989898/989898/7075
+http://sindoro.axc.my.id:25461/live/oxygen/VU5ZBKiIBr/7.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GXZGEzJ.png?v=4.2.2.2" group-title="Knowledge" tvg-id="Nat Geo People HD", Nat Geo People HD
+#https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeopeople&bandwidth=default&sync=0
+http://sindoro.axc.my.id:25461/live/oxygen/VU5ZBKiIBr/8.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AWvwPm5.png?v=4.2.2.2" group-title="Knowledge", Discovery Channel HD
+#https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/989898/989898/7078
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WVpnAKn.png?v=4.2.2.2" group-title="Knowledge", Discovery Asia HD
+http://iptv.tvmalaysia.cc/live/989898/989898/8856.m3u8
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.imgur.com/fgO3tyz.png?v=1.0.0.1", Discovery Science HD
+https://itvoign.multitvsolution.com/idvo/discoverscienceeng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eohcpWr.png?v=4.2.2.2" group-title="Knowledge", CGTN
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BzbgaxF.png?v=4.2.2.2" group-title="Knowledge", Love Nature HD
+http://gpc.my.id/vidio/love-nature.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5znakl6.png?v=4.2.2.2" group-title="Knowledge", Smithsonian Channel
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vwq6lFW.png?v=4.2.2.2" group-title="Knowledge", TV Edukasi
+http://202.169.224.76:1935/live/tve.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AiXXYZK.png?v=4.2.2.2" group-title="Knowledge", National Geographic Abu Dhabi
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+
 
 *************************************************MOVIES*************************************************
 
